@@ -37,3 +37,6 @@ Aplikasi ini bertujuan untuk memanfaatkan kekuatan Laravel sebagai backend untuk
 
 Kontribusi terbuka dan kolaborasi sangat diterima! Jika Anda ingin berkontribusi pada proyek ini, silakan ajukan pull request atau buat isu untuk membahas perubahan yang Anda inginkan.
 
+<img width="1680" alt="Screen Shot 2023-07-19 at 11 55 57" src="https://github.com/Bahrul-ulum21/Peta-Mapbox-Laravel-GIS/assets/110754191/0a55674e-29f0-411b-9dde-a20366639d3c">
+
+

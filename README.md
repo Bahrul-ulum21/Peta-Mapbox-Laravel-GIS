@@ -4,7 +4,7 @@ Ini adalah repositori untuk aplikasi pemetaan yang sedang saya kembangkan menggu
 
 ## Deskripsi
 
-Aplikasi ini bertujuan untuk memanfaatkan kekuatan Laravel sebagai backend untuk mengelola data dan logika aplikasi, sedangkan Laravel UI dan Livewire digunakan untuk membangun antarmuka pengguna yang interaktif. Mapbox digunakan untuk menampilkan peta interaktif dan fungsionalitas pemetaan.
+Aplikasi ini bertujuan untuk memenuhi tugas UAS saya GIS. Juga memanfaatkan pengetahuan Laravel sebagai backend untuk mengelola data dan logika aplikasi, sedangkan Laravel UI dan Livewire digunakan untuk membangun antarmuka pengguna yang interaktif. Mapbox digunakan untuk menampilkan peta interaktif dan fungsionalitas pemetaan.
 
 ## Fitur
 

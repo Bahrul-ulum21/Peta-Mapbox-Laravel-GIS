@@ -34,6 +34,9 @@ Aplikasi ini bertujuan untuk memenuhi tugas UAS saya GIS. Juga memanfaatkan peng
 2. Buka aplikasi di browser dengan mengakses URL yang ditampilkan di terminal.
 3. Jelajahi fitur-fitur aplikasi dan fungsionalitas pemetaan yang ada.
 
+   ## Jika Ada pertanyaan silahkan hubungi :
+   wa.me/081908246357
+
 ## Kontribusi
 
 Kontribusi terbuka dan kolaborasi sangat diterima! Jika Anda ingin berkontribusi pada proyek ini, silakan ajukan pull request atau buat isu untuk membahas perubahan yang Anda inginkan.

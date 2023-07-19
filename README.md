@@ -24,8 +24,9 @@ Aplikasi ini bertujuan untuk memanfaatkan kekuatan Laravel sebagai backend untuk
 5. Salin file `.env.example` menjadi `.env` dan konfigurasikan pengaturan database serta layanan Mapbox Anda.
 6. Jalankan perintah `php artisan key:generate` untuk menghasilkan kunci aplikasi.
 7. Jalankan perintah `php artisan migrate` untuk melakukan migrasi tabel database.
-8. Siapkan akun pengembang Mapbox dan dapatkan kunci API Mapbox Anda.
-9. Masukkan kunci API Mapbox Anda, jika anda memiliki API sendiri.
+8. Jalankan perintah `php artisan db:seed` untuk menambahkan beberapa file ke database.
+9. Siapkan akun pengembang Mapbox dan dapatkan kunci API Mapbox Anda.
+10. Masukkan kunci API Mapbox Anda, jika anda memiliki API sendiri.
 
 ## Penggunaan
 
